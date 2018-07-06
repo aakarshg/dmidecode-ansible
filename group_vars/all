@@ -1,4 +1,3 @@
 # Dependencies
 dependencies:
     - python-dmidecode
-    - python-simplejson
